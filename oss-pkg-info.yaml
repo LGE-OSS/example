@@ -1,0 +1,8 @@
+Open Source Software Package:
+- name: MagicStack-httptools
+  version: 0.1.1
+  source: https://github.com/MagicStack/httptools
+  license : MIT
+- name: Anorov-PySocks
+  source: https://github.com/Anorov/PySocks
+  license : BSD-3-Clause
