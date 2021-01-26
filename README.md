@@ -4,9 +4,9 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 
-# Example of writing license text
+# Example of adding license text
 
-This is an example repository for how to write license text.
+This is an example repository for how to add license text.
 
 ## License
 Unless otherwise specified, all content, including all source code files and documentation files in this repository are:
