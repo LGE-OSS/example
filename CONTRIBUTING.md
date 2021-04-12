@@ -4,7 +4,7 @@ Hi! I'm really appreciate that you'd like to contribute to this project. Your he
 
 ## Submitting a pull request
 
-1. <a class="github-button" href="https://github.com/LGE-OSS/example/fork" data-icon="octicon-repo-forked" aria-label="Fork LGE-OSS/example on GitHub">```Fork```</a> and clone the repository
+1. <a class="github-button" href="https://github.com/LGE-OSS/example/fork" data-icon="octicon-repo-forked" aria-label="Fork LGE-OSS/example on GitHub">```Fork```</a> and clone the repository.
 2. Create a new branch: `git checkout -b my-branch-name`
 3. Make your change and make sure it works properly.
 4. Push to your fork and submit a pull request.
