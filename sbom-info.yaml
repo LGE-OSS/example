@@ -1,0 +1,15 @@
+MagicStack-httptools:
+- version: "0.1.1"
+  source name or path:
+  - third_party/httptools/*
+  license:
+  - MIT
+  download location: "https://github.com/MagicStack/httptools"
+  copyright text: "Copyright (c) 2015 MagicStack Inc."
+Anorov-PySocks:
+- version: ''
+  source name or path: third_party/PySocks/*
+  license: BSD-3-Clause
+  download location: "https://github.com/Anorov/PySocks"
+  homepage: "https://www.npmjs.com/package/backoff"
+  copyright text: "Copyright (c) 2006 Dan-Haim."
