@@ -1,0 +1,26 @@
+{
+  "name": "lge-example",
+  "version": "1.0.0",
+  "description": "Example for creating open source project",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGE-OSS/example.git"
+  },
+  "author": "LG Electronics, Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LGE-OSS/example/issues"
+  },
+  "homepage": "https://github.com/LGE-OSS/example#readme",
+  "devDependencies": {
+    "github-changes": "^1.1.2",
+    "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "copy-anything": "~2.0.1"
+  }
+}
