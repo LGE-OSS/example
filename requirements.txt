@@ -1,4 +1,3 @@
-fosslight_source
 future
 pandas
 xlrd
