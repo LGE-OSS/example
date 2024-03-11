@@ -1,12 +1,3 @@
-fosslight_source
-future
-pandas
-xlrd
-openpyxl
-progress
-pyyaml
+grpcio
 beautifulsoup4
-fosslight_util>=1.4.16
-fosslight_dependency>=3.7.4
-fosslight_binary>=4.0.7
-fosslight_prechecker>=3.0.1
+xlrd
