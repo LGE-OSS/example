@@ -25,5 +25,5 @@ The goal of this project is that you can create and manage the new open source p
 ## License
 Unless otherwise specified, all content, including all source code files and documentation files in this repository are:
 
-Copyright (c) 2021 LG Electronics, Inc.
+Copyright (c) 2021 LG Electronics, Inc.     
 SPDX-License-Identifier: LicenseRef-LGE-Proprietary
