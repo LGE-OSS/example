@@ -11,7 +11,8 @@
     "url": "git+https://github.com/LGE-OSS/example.git"
   },
   "author": "LG Electronics, Inc",
-  "license": "Apache-2.0",
+  "license": "LicenseRef-LGE-Proprietary",
+  "private": true,
   "bugs": {
     "url": "https://github.com/LGE-OSS/example/issues"
   },
