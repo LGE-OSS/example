@@ -1,3 +1,4 @@
 grpcio
 beautifulsoup4
 xlrd
+numpy
