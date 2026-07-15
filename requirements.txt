@@ -3,3 +3,4 @@ grpcio
 beautifulsoup4
 xlrd
 numpy
+lxml==5.3.0
