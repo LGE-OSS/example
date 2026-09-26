@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: Copyright (c) 2021 LG Electronics Inc.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-
+# Simple Interest Project - Final Submission
 # Example of open source project
 
 ## Introduction
