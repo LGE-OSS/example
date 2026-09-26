@@ -4,7 +4,7 @@ SPDX-License-Identifier: Apache-2.0
 -->
 
 
-# Example of open source project
+# Example of open source
 
 ## Introduction
 This is an example repository for creating open source project.
