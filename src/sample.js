@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: Copyright 2022 LG Electronics Inc.
-// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-License-Identifier: Apache-2.0
 function printHello(){
     console.log("Hello world");
 }
